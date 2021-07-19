@@ -7,4 +7,5 @@ How To Use It?
  3 - Create Instance of Eduino System from unity menu items.
  4 - Test the connection.
  
- Watch This: https://youtu.be/ca4DQ8h0L3U
+ Note:
+ Read the (Games Controller Using Arduino And Unity) document, and watch this video : https://youtu.be/ca4DQ8h0L3U
